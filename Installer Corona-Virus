@@ -1,0 +1,6 @@
+pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/Mr15XCYBE/Corona-Virus
+cd Corona-Virus
+sh Corona-Virus.sh
